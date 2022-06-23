@@ -1,0 +1,5 @@
+CLASS zcl_bp_i_travel_m_pin DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_travel_m_pin.
+ENDCLASS.
+
+CLASS zcl_bp_i_travel_m_pin IMPLEMENTATION.
+ENDCLASS.
